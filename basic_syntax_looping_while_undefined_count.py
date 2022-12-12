@@ -23,3 +23,5 @@ else:
     print(f'"Bu, tidak semua buku bisa difahami. '
           f'Budi hanya bisa memahami {jumlah_baca_dan_faham} buku"')
 
+
+
